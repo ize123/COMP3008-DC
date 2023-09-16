@@ -1,0 +1,6 @@
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 2 - Frameworks\Class Library Project\StudentDatabaseDLL\bin\Debug\StudentDatabaseDLL.dll
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 2 - Frameworks\Class Library Project\StudentDatabaseDLL\bin\Debug\StudentDatabaseDLL.pdb
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 2 - Frameworks\Class Library Project\StudentDatabaseDLL\obj\Debug\StudentDatabaseDLL.csproj.AssemblyReference.cache
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 2 - Frameworks\Class Library Project\StudentDatabaseDLL\obj\Debug\StudentDatabaseDLL.csproj.CoreCompileInputs.cache
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 2 - Frameworks\Class Library Project\StudentDatabaseDLL\obj\Debug\StudentDatabaseDLL.dll
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 2 - Frameworks\Class Library Project\StudentDatabaseDLL\obj\Debug\StudentDatabaseDLL.pdb

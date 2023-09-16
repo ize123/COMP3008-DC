@@ -1,0 +1,37 @@
+C:\Users\isaac\source\repos\Class Library Project\server\bin\Debug\server.exe.config
+C:\Users\isaac\source\repos\Class Library Project\server\bin\Debug\server.exe
+C:\Users\isaac\source\repos\Class Library Project\server\bin\Debug\server.pdb
+C:\Users\isaac\source\repos\Class Library Project\server\bin\Debug\Class Library Project.dll
+C:\Users\isaac\source\repos\Class Library Project\server\bin\Debug\Class Library Project.pdb
+C:\Users\isaac\source\repos\Class Library Project\server\obj\Debug\server.csproj.AssemblyReference.cache
+C:\Users\isaac\source\repos\Class Library Project\server\obj\Debug\server.csproj.SuggestedBindingRedirects.cache
+C:\Users\isaac\source\repos\Class Library Project\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\isaac\source\repos\Class Library Project\server\obj\Debug\server.csproj.CopyComplete
+C:\Users\isaac\source\repos\Class Library Project\server\obj\Debug\server.exe
+C:\Users\isaac\source\repos\Class Library Project\server\obj\Debug\server.pdb
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 2 - Frameworks\Class Library Project\server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 2 - Frameworks\Class Library Project\server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 2 - Frameworks\Class Library Project\server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 2 - Frameworks\Class Library Project\server\bin\Debug\server.exe.config
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 2 - Frameworks\Class Library Project\server\bin\Debug\server.exe
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 2 - Frameworks\Class Library Project\server\bin\Debug\server.pdb
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 2 - Frameworks\Class Library Project\server\bin\Debug\Class Library Project.dll
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 2 - Frameworks\Class Library Project\server\bin\Debug\StudentDatabaseDLL.dll
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 2 - Frameworks\Class Library Project\server\bin\Debug\Class Library Project.pdb
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 2 - Frameworks\Class Library Project\server\bin\Debug\StudentDatabaseDLL.pdb
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 2 - Frameworks\Class Library Project\server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 2 - Frameworks\Class Library Project\server\obj\Debug\server.exe
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 2 - Frameworks\Class Library Project\server\obj\Debug\server.pdb
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Class Library Project\server\bin\Debug\server.exe.config
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Class Library Project\server\bin\Debug\server.exe
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Class Library Project\server\bin\Debug\server.pdb
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Class Library Project\server\bin\Debug\Class Library Project.dll
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Class Library Project\server\bin\Debug\StudentDatabaseDLL.dll
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Class Library Project\server\bin\Debug\Class Library Project.pdb
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Class Library Project\server\bin\Debug\StudentDatabaseDLL.pdb
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Class Library Project\server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Class Library Project\server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Class Library Project\server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Class Library Project\server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Class Library Project\server\obj\Debug\server.exe
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Class Library Project\server\obj\Debug\server.pdb

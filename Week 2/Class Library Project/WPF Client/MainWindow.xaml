@@ -1,0 +1,22 @@
+﻿<Window x:Class="WPF_Client.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Client"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="fName_box" HorizontalAlignment="Center" Margin="0,99,0,0" TextWrapping="Wrap" Text="First Name" VerticalAlignment="Top" Width="280" Height="20"/>
+        <TextBox x:Name="lName_box" HorizontalAlignment="Center" Margin="0,124,0,0" TextWrapping="Wrap" Text="Last name" VerticalAlignment="Top" Width="280" Height="20"/>
+        <TextBox x:Name="acctNo_box" HorizontalAlignment="Center" Margin="0,149,0,0" TextWrapping="Wrap" Text="Account Number" VerticalAlignment="Top" Width="280" Height="20"/>
+        <TextBox x:Name="pin_box" HorizontalAlignment="Center" Margin="0,174,0,0" TextWrapping="Wrap" Text="Pin Number" VerticalAlignment="Top" Width="280" Height="20"/>
+        <TextBox x:Name="balance_box" HorizontalAlignment="Center" Margin="0,199,0,0" TextWrapping="Wrap" Text="Balance" VerticalAlignment="Top" Width="280" Height="20"/>
+        <TextBox x:Name="index_box" HorizontalAlignment="Left" Margin="260,293,0,0" TextWrapping="Wrap" Text="Index?" VerticalAlignment="Top" Width="125" Height="20" GotFocus="index_box_GotFocus"/>
+        <TextBlock x:Name="totalNum_label" HorizontalAlignment="Left" Margin="265,318,0,0" TextWrapping="Wrap" Text="Total Items" VerticalAlignment="Top"/>
+        <Button x:Name="go_btn" Content="Go!" HorizontalAlignment="Left" Margin="443,293,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.457,0.478" Height="20" Width="97" Click="go_btn_Click"/>
+        <TextBlock x:Name="error_badge" HorizontalAlignment="Left" Margin="260,236,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
+        <Image x:Name="image_box" HorizontalAlignment="Left" Height="210" Margin="22,99,0,0" VerticalAlignment="Top" Width="227"/>
+
+    </Grid>
+</Window>

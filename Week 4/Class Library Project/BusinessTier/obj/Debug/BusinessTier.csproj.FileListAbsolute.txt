@@ -1,0 +1,26 @@
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 4 - Async Communication\Class Library Project\BusinessTier\bin\Debug\BusinessTier.exe.config
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 4 - Async Communication\Class Library Project\BusinessTier\bin\Debug\BusinessTier.exe
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 4 - Async Communication\Class Library Project\BusinessTier\bin\Debug\BusinessTier.pdb
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 4 - Async Communication\Class Library Project\BusinessTier\bin\Debug\Class Library Project.dll
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 4 - Async Communication\Class Library Project\BusinessTier\bin\Debug\StudentDatabaseDLL.dll
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 4 - Async Communication\Class Library Project\BusinessTier\bin\Debug\Class Library Project.pdb
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 4 - Async Communication\Class Library Project\BusinessTier\bin\Debug\StudentDatabaseDLL.pdb
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 4 - Async Communication\Class Library Project\BusinessTier\obj\Debug\BusinessTier.csproj.AssemblyReference.cache
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 4 - Async Communication\Class Library Project\BusinessTier\obj\Debug\BusinessTier.csproj.SuggestedBindingRedirects.cache
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 4 - Async Communication\Class Library Project\BusinessTier\obj\Debug\BusinessTier.csproj.CoreCompileInputs.cache
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 4 - Async Communication\Class Library Project\BusinessTier\obj\Debug\BusinessTier.csproj.CopyComplete
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 4 - Async Communication\Class Library Project\BusinessTier\obj\Debug\BusinessTier.exe
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 4 - Async Communication\Class Library Project\BusinessTier\obj\Debug\BusinessTier.pdb
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 4\Class Library Project\BusinessTier\bin\Debug\BusinessTier.exe.config
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 4\Class Library Project\BusinessTier\bin\Debug\BusinessTier.exe
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 4\Class Library Project\BusinessTier\bin\Debug\BusinessTier.pdb
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 4\Class Library Project\BusinessTier\bin\Debug\Class Library Project.dll
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 4\Class Library Project\BusinessTier\bin\Debug\StudentDatabaseDLL.dll
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 4\Class Library Project\BusinessTier\bin\Debug\Class Library Project.pdb
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 4\Class Library Project\BusinessTier\bin\Debug\StudentDatabaseDLL.pdb
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 4\Class Library Project\BusinessTier\obj\Debug\BusinessTier.csproj.AssemblyReference.cache
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 4\Class Library Project\BusinessTier\obj\Debug\BusinessTier.csproj.SuggestedBindingRedirects.cache
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 4\Class Library Project\BusinessTier\obj\Debug\BusinessTier.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 4\Class Library Project\BusinessTier\obj\Debug\BusinessTier.csproj.CopyComplete
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 4\Class Library Project\BusinessTier\obj\Debug\BusinessTier.exe
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 4\Class Library Project\BusinessTier\obj\Debug\BusinessTier.pdb

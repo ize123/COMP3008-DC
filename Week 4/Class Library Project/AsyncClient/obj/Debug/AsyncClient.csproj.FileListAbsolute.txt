@@ -1,0 +1,48 @@
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 4 - Async Communication\Class Library Project\AsyncClient\bin\Debug\AsyncClient.exe.config
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 4 - Async Communication\Class Library Project\AsyncClient\bin\Debug\AsyncClient.exe
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 4 - Async Communication\Class Library Project\AsyncClient\bin\Debug\AsyncClient.pdb
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 4 - Async Communication\Class Library Project\AsyncClient\bin\Debug\BusinessTier.exe
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 4 - Async Communication\Class Library Project\AsyncClient\bin\Debug\Class Library Project.dll
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 4 - Async Communication\Class Library Project\AsyncClient\bin\Debug\StudentDatabaseDLL.dll
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 4 - Async Communication\Class Library Project\AsyncClient\bin\Debug\BusinessTier.pdb
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 4 - Async Communication\Class Library Project\AsyncClient\bin\Debug\BusinessTier.exe.config
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 4 - Async Communication\Class Library Project\AsyncClient\bin\Debug\Class Library Project.pdb
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 4 - Async Communication\Class Library Project\AsyncClient\bin\Debug\StudentDatabaseDLL.pdb
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 4 - Async Communication\Class Library Project\AsyncClient\obj\Debug\AsyncClient.csproj.AssemblyReference.cache
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 4 - Async Communication\Class Library Project\AsyncClient\obj\Debug\AsyncClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 4 - Async Communication\Class Library Project\AsyncClient\obj\Debug\MainWindow.g.cs
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 4 - Async Communication\Class Library Project\AsyncClient\obj\Debug\App.g.cs
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 4 - Async Communication\Class Library Project\AsyncClient\obj\Debug\AsyncClient_MarkupCompile.cache
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 4 - Async Communication\Class Library Project\AsyncClient\obj\Debug\AsyncClient_MarkupCompile.lref
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 4 - Async Communication\Class Library Project\AsyncClient\obj\Debug\MainWindow.baml
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 4 - Async Communication\Class Library Project\AsyncClient\obj\Debug\AsyncClient.g.resources
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 4 - Async Communication\Class Library Project\AsyncClient\obj\Debug\AsyncClient.Properties.Resources.resources
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 4 - Async Communication\Class Library Project\AsyncClient\obj\Debug\AsyncClient.csproj.GenerateResource.cache
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 4 - Async Communication\Class Library Project\AsyncClient\obj\Debug\AsyncClient.csproj.CoreCompileInputs.cache
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 4 - Async Communication\Class Library Project\AsyncClient\obj\Debug\AsyncClient.csproj.CopyComplete
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 4 - Async Communication\Class Library Project\AsyncClient\obj\Debug\AsyncClient.exe
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 4 - Async Communication\Class Library Project\AsyncClient\obj\Debug\AsyncClient.pdb
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 4\Class Library Project\AsyncClient\bin\Debug\AsyncClient.exe.config
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 4\Class Library Project\AsyncClient\bin\Debug\AsyncClient.exe
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 4\Class Library Project\AsyncClient\bin\Debug\AsyncClient.pdb
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 4\Class Library Project\AsyncClient\bin\Debug\BusinessTier.exe
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 4\Class Library Project\AsyncClient\bin\Debug\Class Library Project.dll
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 4\Class Library Project\AsyncClient\bin\Debug\StudentDatabaseDLL.dll
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 4\Class Library Project\AsyncClient\bin\Debug\BusinessTier.pdb
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 4\Class Library Project\AsyncClient\bin\Debug\BusinessTier.exe.config
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 4\Class Library Project\AsyncClient\bin\Debug\Class Library Project.pdb
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 4\Class Library Project\AsyncClient\bin\Debug\StudentDatabaseDLL.pdb
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 4\Class Library Project\AsyncClient\obj\Debug\AsyncClient.csproj.AssemblyReference.cache
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 4\Class Library Project\AsyncClient\obj\Debug\AsyncClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 4\Class Library Project\AsyncClient\obj\Debug\MainWindow.g.cs
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 4\Class Library Project\AsyncClient\obj\Debug\App.g.cs
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 4\Class Library Project\AsyncClient\obj\Debug\AsyncClient_MarkupCompile.cache
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 4\Class Library Project\AsyncClient\obj\Debug\AsyncClient_MarkupCompile.lref
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 4\Class Library Project\AsyncClient\obj\Debug\MainWindow.baml
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 4\Class Library Project\AsyncClient\obj\Debug\AsyncClient.g.resources
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 4\Class Library Project\AsyncClient\obj\Debug\AsyncClient.Properties.Resources.resources
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 4\Class Library Project\AsyncClient\obj\Debug\AsyncClient.csproj.GenerateResource.cache
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 4\Class Library Project\AsyncClient\obj\Debug\AsyncClient.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 4\Class Library Project\AsyncClient\obj\Debug\AsyncClient.csproj.CopyComplete
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 4\Class Library Project\AsyncClient\obj\Debug\AsyncClient.exe
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 4\Class Library Project\AsyncClient\obj\Debug\AsyncClient.pdb

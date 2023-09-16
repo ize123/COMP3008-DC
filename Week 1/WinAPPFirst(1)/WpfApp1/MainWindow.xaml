@@ -1,0 +1,16 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="first_name" HorizontalAlignment="Left" Margin="89,176,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="451" Height="56" Text="First Name" FontSize="36" IsReadOnly="True"/>
+        <Button Content="SEARCH" HorizontalAlignment="Left" Margin="494,52,0,0" VerticalAlignment="Top" Height="72" Width="220" RenderTransformOrigin="1.14,0.449" Click="Button_Click" FontSize="24"/>
+        <TextBox x:Name="uni_name" HorizontalAlignment="Left" Margin="89,289,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="451" Height="56" Text="University Name" FontSize="36" IsReadOnly="True"/>
+        <TextBox x:Name="student_id" HorizontalAlignment="Left" Margin="89,52,0,0" TextWrapping="Wrap" Text="Student ID" VerticalAlignment="Top" Width="311" Height="72" FontSize="36" GotFocus="student_id_GotFocus"/>
+
+    </Grid>
+</Window>

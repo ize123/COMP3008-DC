@@ -1,0 +1,12 @@
+C:\Users\283602K\Downloads\DotNET-DLL-Remoting\Distributed Student System\StudentDatabaseDLL\bin\Debug\StudentDatabaseDLL.dll
+C:\Users\283602K\Downloads\DotNET-DLL-Remoting\Distributed Student System\StudentDatabaseDLL\bin\Debug\StudentDatabaseDLL.pdb
+C:\Users\283602K\Downloads\DotNET-DLL-Remoting\Distributed Student System\StudentDatabaseDLL\obj\Debug\StudentDLL.csproj.AssemblyReference.cache
+C:\Users\283602K\Downloads\DotNET-DLL-Remoting\Distributed Student System\StudentDatabaseDLL\obj\Debug\StudentDLL.csproj.CoreCompileInputs.cache
+C:\Users\283602K\Downloads\DotNET-DLL-Remoting\Distributed Student System\StudentDatabaseDLL\obj\Debug\StudentDatabaseDLL.dll
+C:\Users\283602K\Downloads\DotNET-DLL-Remoting\Distributed Student System\StudentDatabaseDLL\obj\Debug\StudentDatabaseDLL.pdb
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Distributed Student System\Distributed Student System\StudentDatabaseDLL\bin\Debug\StudentDatabaseDLL.dll
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Distributed Student System\Distributed Student System\StudentDatabaseDLL\bin\Debug\StudentDatabaseDLL.pdb
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Distributed Student System\Distributed Student System\StudentDatabaseDLL\obj\Debug\StudentDLL.csproj.AssemblyReference.cache
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Distributed Student System\Distributed Student System\StudentDatabaseDLL\obj\Debug\StudentDLL.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Distributed Student System\Distributed Student System\StudentDatabaseDLL\obj\Debug\StudentDatabaseDLL.dll
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Distributed Student System\Distributed Student System\StudentDatabaseDLL\obj\Debug\StudentDatabaseDLL.pdb

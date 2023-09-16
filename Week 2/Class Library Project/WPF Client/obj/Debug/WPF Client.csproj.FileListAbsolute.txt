@@ -1,0 +1,48 @@
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 2 - Frameworks\Class Library Project\WPF Client\obj\Debug\WPF Client.csproj.AssemblyReference.cache
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 2 - Frameworks\Class Library Project\WPF Client\obj\Debug\WPF Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 2 - Frameworks\Class Library Project\WPF Client\obj\Debug\MainWindow.g.cs
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 2 - Frameworks\Class Library Project\WPF Client\obj\Debug\App.g.cs
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 2 - Frameworks\Class Library Project\WPF Client\obj\Debug\WPF Client_MarkupCompile.cache
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 2 - Frameworks\Class Library Project\WPF Client\obj\Debug\WPF Client_MarkupCompile.lref
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 2 - Frameworks\Class Library Project\WPF Client\bin\Debug\WPF Client.exe.config
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 2 - Frameworks\Class Library Project\WPF Client\bin\Debug\WPF Client.exe
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 2 - Frameworks\Class Library Project\WPF Client\bin\Debug\WPF Client.pdb
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 2 - Frameworks\Class Library Project\WPF Client\bin\Debug\Class Library Project.dll
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 2 - Frameworks\Class Library Project\WPF Client\bin\Debug\server.exe
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 2 - Frameworks\Class Library Project\WPF Client\bin\Debug\StudentDatabaseDLL.dll
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 2 - Frameworks\Class Library Project\WPF Client\bin\Debug\Class Library Project.pdb
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 2 - Frameworks\Class Library Project\WPF Client\bin\Debug\server.pdb
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 2 - Frameworks\Class Library Project\WPF Client\bin\Debug\server.exe.config
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 2 - Frameworks\Class Library Project\WPF Client\bin\Debug\StudentDatabaseDLL.pdb
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 2 - Frameworks\Class Library Project\WPF Client\obj\Debug\MainWindow.baml
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 2 - Frameworks\Class Library Project\WPF Client\obj\Debug\WPF Client.g.resources
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 2 - Frameworks\Class Library Project\WPF Client\obj\Debug\WPF_Client.Properties.Resources.resources
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 2 - Frameworks\Class Library Project\WPF Client\obj\Debug\WPF Client.csproj.GenerateResource.cache
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 2 - Frameworks\Class Library Project\WPF Client\obj\Debug\WPF Client.csproj.CoreCompileInputs.cache
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 2 - Frameworks\Class Library Project\WPF Client\obj\Debug\WPF Client.csproj.CopyComplete
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 2 - Frameworks\Class Library Project\WPF Client\obj\Debug\WPF Client.exe
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Week 2 - Frameworks\Class Library Project\WPF Client\obj\Debug\WPF Client.pdb
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Class Library Project\WPF Client\bin\Debug\WPF Client.exe.config
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Class Library Project\WPF Client\bin\Debug\WPF Client.exe
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Class Library Project\WPF Client\bin\Debug\WPF Client.pdb
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Class Library Project\WPF Client\bin\Debug\Class Library Project.dll
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Class Library Project\WPF Client\bin\Debug\server.exe
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Class Library Project\WPF Client\bin\Debug\StudentDatabaseDLL.dll
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Class Library Project\WPF Client\bin\Debug\Class Library Project.pdb
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Class Library Project\WPF Client\bin\Debug\server.pdb
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Class Library Project\WPF Client\bin\Debug\server.exe.config
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Class Library Project\WPF Client\bin\Debug\StudentDatabaseDLL.pdb
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Class Library Project\WPF Client\obj\Debug\WPF Client.csproj.AssemblyReference.cache
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Class Library Project\WPF Client\obj\Debug\WPF Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Class Library Project\WPF Client\obj\Debug\MainWindow.g.cs
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Class Library Project\WPF Client\obj\Debug\App.g.cs
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Class Library Project\WPF Client\obj\Debug\WPF Client_MarkupCompile.cache
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Class Library Project\WPF Client\obj\Debug\WPF Client_MarkupCompile.lref
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Class Library Project\WPF Client\obj\Debug\MainWindow.baml
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Class Library Project\WPF Client\obj\Debug\WPF Client.g.resources
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Class Library Project\WPF Client\obj\Debug\WPF_Client.Properties.Resources.resources
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Class Library Project\WPF Client\obj\Debug\WPF Client.csproj.GenerateResource.cache
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Class Library Project\WPF Client\obj\Debug\WPF Client.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Class Library Project\WPF Client\obj\Debug\WPF Client.csproj.CopyComplete
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Class Library Project\WPF Client\obj\Debug\WPF Client.exe
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Class Library Project\WPF Client\obj\Debug\WPF Client.pdb

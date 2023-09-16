@@ -1,0 +1,12 @@
+C:\Users\283602K\source\repos\StudentDatabase\StudentDatabase\bin\Debug\StudentDatabase.dll
+C:\Users\283602K\source\repos\StudentDatabase\StudentDatabase\bin\Debug\StudentDatabase.pdb
+C:\Users\283602K\source\repos\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.csproj.AssemblyReference.cache
+C:\Users\283602K\source\repos\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.csproj.CoreCompileInputs.cache
+C:\Users\283602K\source\repos\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.dll
+C:\Users\283602K\source\repos\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.pdb
+C:\Users\283602K\Downloads\StudentDatabase\StudentDatabase\bin\Debug\StudentDatabase.dll
+C:\Users\283602K\Downloads\StudentDatabase\StudentDatabase\bin\Debug\StudentDatabase.pdb
+C:\Users\283602K\Downloads\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.csproj.AssemblyReference.cache
+C:\Users\283602K\Downloads\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.csproj.CoreCompileInputs.cache
+C:\Users\283602K\Downloads\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.dll
+C:\Users\283602K\Downloads\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.pdb

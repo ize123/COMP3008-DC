@@ -1,0 +1,22 @@
+C:\Users\283602K\Downloads\DotNET-DLL-Remoting\Distributed Student System\Student System Server\bin\Debug\Student System Server.exe.config
+C:\Users\283602K\Downloads\DotNET-DLL-Remoting\Distributed Student System\Student System Server\bin\Debug\Student System Server.exe
+C:\Users\283602K\Downloads\DotNET-DLL-Remoting\Distributed Student System\Student System Server\bin\Debug\Student System Server.pdb
+C:\Users\283602K\Downloads\DotNET-DLL-Remoting\Distributed Student System\Student System Server\bin\Debug\StudentDatabaseDLL.dll
+C:\Users\283602K\Downloads\DotNET-DLL-Remoting\Distributed Student System\Student System Server\bin\Debug\StudentDatabaseDLL.pdb
+C:\Users\283602K\Downloads\DotNET-DLL-Remoting\Distributed Student System\Student System Server\obj\Debug\Student System Server.csproj.AssemblyReference.cache
+C:\Users\283602K\Downloads\DotNET-DLL-Remoting\Distributed Student System\Student System Server\obj\Debug\Student System Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\283602K\Downloads\DotNET-DLL-Remoting\Distributed Student System\Student System Server\obj\Debug\Student System Server.csproj.CoreCompileInputs.cache
+C:\Users\283602K\Downloads\DotNET-DLL-Remoting\Distributed Student System\Student System Server\obj\Debug\Student System Server.csproj.CopyComplete
+C:\Users\283602K\Downloads\DotNET-DLL-Remoting\Distributed Student System\Student System Server\obj\Debug\Student System Server.exe
+C:\Users\283602K\Downloads\DotNET-DLL-Remoting\Distributed Student System\Student System Server\obj\Debug\Student System Server.pdb
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Distributed Student System\Distributed Student System\Student System Server\bin\Debug\Student System Server.exe.config
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Distributed Student System\Distributed Student System\Student System Server\bin\Debug\Student System Server.exe
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Distributed Student System\Distributed Student System\Student System Server\bin\Debug\Student System Server.pdb
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Distributed Student System\Distributed Student System\Student System Server\bin\Debug\StudentDatabaseDLL.dll
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Distributed Student System\Distributed Student System\Student System Server\bin\Debug\StudentDatabaseDLL.pdb
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Distributed Student System\Distributed Student System\Student System Server\obj\Debug\Student System Server.csproj.AssemblyReference.cache
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Distributed Student System\Distributed Student System\Student System Server\obj\Debug\Student System Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Distributed Student System\Distributed Student System\Student System Server\obj\Debug\Student System Server.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Distributed Student System\Distributed Student System\Student System Server\obj\Debug\Student System Server.csproj.CopyComplete
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Distributed Student System\Distributed Student System\Student System Server\obj\Debug\Student System Server.exe
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 2\Distributed Student System\Distributed Student System\Student System Server\obj\Debug\Student System Server.pdb

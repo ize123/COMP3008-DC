@@ -1,0 +1,14 @@
+C:\Users\283602K\Downloads\StudentDatabase\StudentBusinessTier\bin\Debug\StudentBusinessTier.exe.config
+C:\Users\283602K\Downloads\StudentDatabase\StudentBusinessTier\bin\Debug\StudentBusinessTier.exe
+C:\Users\283602K\Downloads\StudentDatabase\StudentBusinessTier\bin\Debug\StudentBusinessTier.pdb
+C:\Users\283602K\Downloads\StudentDatabase\StudentBusinessTier\bin\Debug\DatabaseServer.exe
+C:\Users\283602K\Downloads\StudentDatabase\StudentBusinessTier\bin\Debug\StudentDatabase.dll
+C:\Users\283602K\Downloads\StudentDatabase\StudentBusinessTier\bin\Debug\DatabaseServer.pdb
+C:\Users\283602K\Downloads\StudentDatabase\StudentBusinessTier\bin\Debug\DatabaseServer.exe.config
+C:\Users\283602K\Downloads\StudentDatabase\StudentBusinessTier\bin\Debug\StudentDatabase.pdb
+C:\Users\283602K\Downloads\StudentDatabase\StudentBusinessTier\obj\Debug\StudentBusinessTier.csproj.AssemblyReference.cache
+C:\Users\283602K\Downloads\StudentDatabase\StudentBusinessTier\obj\Debug\StudentBusinessTier.csproj.SuggestedBindingRedirects.cache
+C:\Users\283602K\Downloads\StudentDatabase\StudentBusinessTier\obj\Debug\StudentBusinessTier.csproj.CoreCompileInputs.cache
+C:\Users\283602K\Downloads\StudentDatabase\StudentBusinessTier\obj\Debug\StudentBusinessTier.csproj.CopyComplete
+C:\Users\283602K\Downloads\StudentDatabase\StudentBusinessTier\obj\Debug\StudentBusinessTier.exe
+C:\Users\283602K\Downloads\StudentDatabase\StudentBusinessTier\obj\Debug\StudentBusinessTier.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SX/nhVKF0oguwBjnu9mDtjFZ4flPI44yt7/JRogZCj03TzPPmXA7JM//vEbueHL9G2PuI0jw/fgWVfhOpy/Zlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\isaac\\Desktop\\Hard Drive\\Uni Year 2 Sem 2\\DC\\Week 6\\Tut_6\\Tut_6\\Tut_6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\isaac\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\isaac\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

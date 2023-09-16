@@ -1,0 +1,50 @@
+C:\Users\283602K\Downloads\DC Materials\Lecture-1\DC_Lecture1_Demo\ConsoleApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+C:\Users\283602K\Downloads\DC Materials\Lecture-1\DC_Lecture1_Demo\ConsoleApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+C:\Users\283602K\Downloads\DC Materials\Lecture-1\DC_Lecture1_Demo\ConsoleApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\283602K\Downloads\DC Materials\Lecture-1\DC_Lecture1_Demo\ConsoleApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\283602K\Downloads\DC Materials\Lecture-1\DC_Lecture1_Demo\ConsoleApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\283602K\Downloads\DC Materials\Lecture-1\DC_Lecture1_Demo\ConsoleApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\283602K\Downloads\DC Materials\Lecture-1\DC_Lecture1_Demo\ConsoleApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\283602K\Downloads\DC Materials\Lecture-1\DC_Lecture1_Demo\ConsoleApp1\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\283602K\Downloads\DC Materials\Lecture-1\DC_Lecture1_Demo\ConsoleApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\283602K\Downloads\DC Materials\Lecture-1\DC_Lecture1_Demo\ConsoleApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\283602K\Downloads\DC Materials\Lecture-1\DC_Lecture1_Demo\ConsoleApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\283602K\Downloads\DC Materials\Lecture-1\DC_Lecture1_Demo\ConsoleApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+C:\Users\283602K\Downloads\DC Materials\Lecture-1\DC_Lecture1_Demo\ConsoleApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\283602K\Downloads\DC Materials\Lecture-1\DC_Lecture1_Demo\ConsoleApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\283602K\Downloads\DC Materials\Lecture-1\DC_Lecture1_Demo\ConsoleApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\283602K\Downloads\DC Materials\Lecture-1\DC_Lecture1_Demo\ConsoleApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\283602K\Downloads\DC Materials\Lecture-1\DC_Lecture1_Demo\ConsoleApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\283602K\Downloads\DC Materials\Lecture-1\DC_Lecture1_Demo\ConsoleApp1\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+C:\Users\283602K\Downloads\DC Materials\Lecture-1\DC_Lecture1_Demo\ConsoleApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\283602K\Downloads\DC Materials\Lecture-1\DC_Lecture1_Demo\ConsoleApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\283602K\Downloads\DC Materials\Lecture-1\DC_Lecture1_Demo\ConsoleApp1\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+C:\Users\283602K\Downloads\DC Materials\Lecture-1\DC_Lecture1_Demo\ConsoleApp1\WpfApp1\bin\Debug\net6.0-windows\ConsoleApp1.exe
+C:\Users\283602K\Downloads\DC Materials\Lecture-1\DC_Lecture1_Demo\ConsoleApp1\WpfApp1\bin\Debug\net6.0-windows\ConsoleApp1.pdb
+C:\Users\283602K\Downloads\DC Materials\Lecture-1\DC_Lecture1_Demo\ConsoleApp1\WpfApp1\bin\Debug\net6.0-windows\ConsoleApp1.exe.config
+C:\Users\283602K\Downloads\DC Materials\Lecture-1\DC_Lecture1_Demo\ConsoleApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CopyComplete
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 1\WinAPPFirst(1)\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 1\WinAPPFirst(1)\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 1\WinAPPFirst(1)\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 1\WinAPPFirst(1)\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 1\WinAPPFirst(1)\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 1\WinAPPFirst(1)\WpfApp1\bin\Debug\net6.0-windows\ConsoleApp1.exe
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 1\WinAPPFirst(1)\WpfApp1\bin\Debug\net6.0-windows\ConsoleApp1.pdb
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 1\WinAPPFirst(1)\WpfApp1\bin\Debug\net6.0-windows\ConsoleApp1.exe.config
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 1\WinAPPFirst(1)\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 1\WinAPPFirst(1)\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 1\WinAPPFirst(1)\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 1\WinAPPFirst(1)\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 1\WinAPPFirst(1)\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 1\WinAPPFirst(1)\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 1\WinAPPFirst(1)\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 1\WinAPPFirst(1)\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 1\WinAPPFirst(1)\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 1\WinAPPFirst(1)\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 1\WinAPPFirst(1)\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 1\WinAPPFirst(1)\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CopyComplete
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 1\WinAPPFirst(1)\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 1\WinAPPFirst(1)\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 1\WinAPPFirst(1)\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 1\WinAPPFirst(1)\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 1\WinAPPFirst(1)\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
