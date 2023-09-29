@@ -12,19 +12,18 @@ namespace Tut_6.Models
 {
     public class Database
     {
-        List<Student> studentsList;
+        static List<Student> studentsList = new List<Student>();
         public Database()
         {
             studentsList = new List<Student>();
             InitStudents();
         }
 
-        private void InitStudents()
+        public static void InitStudents()
         {
-            DatabaseGenerator generator = new DatabaseGenerator();
             for (int i = 0; i < 100_000; i++)
             {
-                generator.GetNextAccount(out uint pin, out uint AcctNo, out string Firstname, out string LastName, out int balance, out Bitmap img);
+                DatabaseGenerator.GetNextAccount(out uint pin, out uint AcctNo, out string Firstname, out string LastName, out int balance, out Bitmap img);
                 Student person = new Student(pin, AcctNo, balance, Firstname, LastName, img);
                 studentsList.Add(person);               
             }
@@ -64,12 +63,12 @@ namespace Tut_6.Models
             return GetAllStudents().Count;
         } 
 
-        public Student GetStudentByIndex(int index)
+        public static Student GetStudentByIndex(int index)
         {
             return GetAllStudents()[index];
         }
 
-        public List<Student> GetAllStudents()
+        public static List<Student> GetAllStudents()
         {
             return studentsList;
         }
