@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sO50f9E7ydwTTXZ1/bZNIRvelgofyAbznVOmnfSkNHYiECC+ouNkIC/p22LeNkTWeP3yc3lnPyqGvsIBdx0jdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\isaac\\Desktop\\Hard Drive\\Uni Year 2 Sem 2\\DC\\Week 6\\Isaac_SimpleWebAPI\\Isaac_SimpleWebAPI\\Isaac_SimpleWebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\isaac\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\isaac\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

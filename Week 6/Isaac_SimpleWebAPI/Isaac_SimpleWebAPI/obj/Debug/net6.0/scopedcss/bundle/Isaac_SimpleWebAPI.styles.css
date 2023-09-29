@@ -1,0 +1,49 @@
+/* _content/Isaac_SimpleWebAPI/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-eesom596al] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-eesom596al] {
+  color: #0077cc;
+}
+
+.btn-primary[b-eesom596al] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-eesom596al], .nav-pills .show > .nav-link[b-eesom596al] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-eesom596al] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-eesom596al] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-eesom596al] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-eesom596al] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-eesom596al] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
