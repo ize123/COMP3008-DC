@@ -16,7 +16,7 @@ namespace Isaac_SimpleWebAPI.Models
             Generator generator = new Generator();
             for (int i = 0; i < 10; i++)
             {
-                generator.GetNextAccount(out uint pin, out uint AcctNo, out string Firstname, out string LastName, out int balance, out Bitmap img);
+                generator.GetNextAccount(out uint pin, out uint AcctNo, out string Firstname, out string LastName, out int balance, out string img);
                 Person person = new Person(pin, AcctNo, balance, Firstname, LastName, img);
                 personsList.Add(person);
             }
@@ -47,7 +47,7 @@ namespace Isaac_SimpleWebAPI.Models
             return AllPersons()[index].balance;
         }
 
-        public Bitmap? GetImageByIndex(int index)
+        public string GetImageByIndex(int index)
         {
             return AllPersons()[index].image;
         }
@@ -60,6 +60,18 @@ namespace Isaac_SimpleWebAPI.Models
         public static Person? GetPersonByIndex(int index)
         {
             return AllPersons()[index];
+        }
+
+        public static Person? Search(string searchStr)
+        {
+            Person person = null;
+            var match = AllPersons().FirstOrDefault(x => x.lastName.ToLower().Equals(searchStr.ToLower()));
+            if(match != null)
+            {
+                int index = AllPersons().IndexOf(match);
+                person = GetPersonByIndex(index);
+            }
+            return person;
         }
     }
 }

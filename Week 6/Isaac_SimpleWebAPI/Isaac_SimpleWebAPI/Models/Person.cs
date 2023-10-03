@@ -9,7 +9,7 @@ namespace Isaac_SimpleWebAPI.Models
         public int balance { get; set; }
         public string firstName { get; set; }
         public string lastName { get; set; }
-        public Bitmap? image { get; set; }
+        public string image { get; set; }
 
 
         public Person()
@@ -22,7 +22,7 @@ namespace Isaac_SimpleWebAPI.Models
             image = null;
         }
 
-        public Person(uint acctNo, uint pin, int balance, string firstName, string lastName, Bitmap image)
+        public Person(uint acctNo, uint pin, int balance, string firstName, string lastName, string image)
         {
             this.acctNo = acctNo;
             this.pin = pin;

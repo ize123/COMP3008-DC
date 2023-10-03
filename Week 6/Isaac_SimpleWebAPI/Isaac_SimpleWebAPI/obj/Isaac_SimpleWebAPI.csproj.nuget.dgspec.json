@@ -4,6 +4,21 @@
     "C:\\Users\\isaac\\Desktop\\Hard Drive\\Uni Year 2 Sem 2\\DC\\Week 6\\Isaac_SimpleWebAPI\\Isaac_SimpleWebAPI\\Isaac_SimpleWebAPI.csproj": {}
   },
   "projects": {
+    "C:\\Users\\isaac\\Desktop\\Hard Drive\\Uni Year 2 Sem 2\\DC\\Week 6\\Isaac_SimpleWebAPI\\Class Library\\Class Library.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\isaac\\Desktop\\Hard Drive\\Uni Year 2 Sem 2\\DC\\Week 6\\Isaac_SimpleWebAPI\\Class Library\\Class Library.csproj",
+        "projectName": "Class Library",
+        "projectPath": "C:\\Users\\isaac\\Desktop\\Hard Drive\\Uni Year 2 Sem 2\\DC\\Week 6\\Isaac_SimpleWebAPI\\Class Library\\Class Library.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
     "C:\\Users\\isaac\\Desktop\\Hard Drive\\Uni Year 2 Sem 2\\DC\\Week 6\\Isaac_SimpleWebAPI\\Isaac_SimpleWebAPI\\Isaac_SimpleWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -34,7 +49,14 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\isaac\\Desktop\\Hard Drive\\Uni Year 2 Sem 2\\DC\\Week 6\\Isaac_SimpleWebAPI\\Class Library\\Class Library.csproj": {
+                "projectPath": "C:\\Users\\isaac\\Desktop\\Hard Drive\\Uni Year 2 Sem 2\\DC\\Week 6\\Isaac_SimpleWebAPI\\Class Library\\Class Library.csproj"
+              },
+              "C:\\Users\\isaac\\Desktop\\Hard Drive\\Uni Year 2 Sem 2\\DC\\Week 6\\Isaac_SimpleWebAPI\\WPF Client\\WPF Client.csproj": {
+                "projectPath": "C:\\Users\\isaac\\Desktop\\Hard Drive\\Uni Year 2 Sem 2\\DC\\Week 6\\Isaac_SimpleWebAPI\\WPF Client\\WPF Client.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -73,6 +95,25 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
+      }
+    },
+    "C:\\Users\\isaac\\Desktop\\Hard Drive\\Uni Year 2 Sem 2\\DC\\Week 6\\Isaac_SimpleWebAPI\\WPF Client\\WPF Client.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\isaac\\Desktop\\Hard Drive\\Uni Year 2 Sem 2\\DC\\Week 6\\Isaac_SimpleWebAPI\\WPF Client\\WPF Client.csproj",
+        "projectName": "WPF Client",
+        "projectPath": "C:\\Users\\isaac\\Desktop\\Hard Drive\\Uni Year 2 Sem 2\\DC\\Week 6\\Isaac_SimpleWebAPI\\WPF Client\\WPF Client.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\isaac\\Desktop\\Hard Drive\\Uni Year 2 Sem 2\\DC\\Week 6\\Isaac_SimpleWebAPI\\Class Library\\Class Library.csproj": {
+                "projectPath": "C:\\Users\\isaac\\Desktop\\Hard Drive\\Uni Year 2 Sem 2\\DC\\Week 6\\Isaac_SimpleWebAPI\\Class Library\\Class Library.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
       }
     }
   }

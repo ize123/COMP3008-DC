@@ -17,15 +17,15 @@ namespace Isaac_SimpleWebAPI.Models
                 "Dent", "Langston", "Fair", "Gold", "Bales", "Do", "Muller", "Allred", "Hilliard", "Paquette",
                 "McClelland", "Turpin", "Boothe", "Hightower", "Koch", "Schulte", "Isom", "Lindquist", "Xu", "Jeffers", "Orr" };
 
-        Bitmap bmp1 = ConvertToBitmap("C:\\Users\\isaac\\OneDrive\\Documents\\UNI\\Uni Year 2 Sem 2\\DC - COMP3008\\Week 4 - Async Communication\\Class Library Project\\Class Library Project\\Res\\sponge1.jpg");
-        Bitmap bmp3 = ConvertToBitmap("C:\\Users\\isaac\\OneDrive\\Documents\\UNI\\Uni Year 2 Sem 2\\DC - COMP3008\\Week 4 - Async Communication\\Class Library Project\\Class Library Project\\Res\\sponge2.jpg");
-        Bitmap bmp4 = ConvertToBitmap("C:\\Users\\isaac\\OneDrive\\Documents\\UNI\\Uni Year 2 Sem 2\\DC - COMP3008\\Week 4 - Async Communication\\Class Library Project\\Class Library Project\\Res\\sponge3.jpg");
-        Bitmap bmp2 = ConvertToBitmap("C:\\Users\\isaac\\OneDrive\\Documents\\UNI\\Uni Year 2 Sem 2\\DC - COMP3008\\Week 4 - Async Communication\\Class Library Project\\Class Library Project\\Res\\sponge4.jpg");
-        Bitmap bmp5 = ConvertToBitmap("C:\\Users\\isaac\\OneDrive\\Documents\\UNI\\Uni Year 2 Sem 2\\DC - COMP3008\\Week 4 - Async Communication\\Class Library Project\\Class Library Project\\Res\\sponge5.jpg");
-        Bitmap bmp6 = ConvertToBitmap("C:\\Users\\isaac\\OneDrive\\Documents\\UNI\\Uni Year 2 Sem 2\\DC - COMP3008\\Week 4 - Async Communication\\Class Library Project\\Class Library Project\\Res\\sponge6.jpg");
-        Bitmap bmp7 = ConvertToBitmap("C:\\Users\\isaac\\OneDrive\\Documents\\UNI\\Uni Year 2 Sem 2\\DC - COMP3008\\Week 4 - Async Communication\\Class Library Project\\Class Library Project\\Res\\sponge7.jpg");
-        Bitmap bmp8 = ConvertToBitmap("C:\\Users\\isaac\\OneDrive\\Documents\\UNI\\Uni Year 2 Sem 2\\DC - COMP3008\\Week 4 - Async Communication\\Class Library Project\\Class Library Project\\Res\\sponge8.jpg");
-        Bitmap bmp9 = ConvertToBitmap("C:\\Users\\isaac\\OneDrive\\Documents\\UNI\\Uni Year 2 Sem 2\\DC - COMP3008\\Week 4 - Async Communication\\Class Library Project\\Class Library Project\\Res\\sponge9.jpg");
+        Bitmap bmp1 = ConvertToBitmap("C:\\Users\\isaac\\Desktop\\Hard Drive\\Uni Year 2 Sem 2\\DC\\Week 6\\Isaac_SimpleWebAPI\\Isaac_SimpleWebAPI\\Models\\Resources\\sponge1.jpg");
+        Bitmap bmp3 = ConvertToBitmap("C:\\Users\\isaac\\Desktop\\Hard Drive\\Uni Year 2 Sem 2\\DC\\Week 6\\Isaac_SimpleWebAPI\\Isaac_SimpleWebAPI\\Models\\Resources\\sponge2.jpg");
+        Bitmap bmp4 = ConvertToBitmap("C:\\Users\\isaac\\Desktop\\Hard Drive\\Uni Year 2 Sem 2\\DC\\Week 6\\Isaac_SimpleWebAPI\\Isaac_SimpleWebAPI\\Models\\Resources\\sponge3.jpg");
+        Bitmap bmp2 = ConvertToBitmap("C:\\Users\\isaac\\Desktop\\Hard Drive\\Uni Year 2 Sem 2\\DC\\Week 6\\Isaac_SimpleWebAPI\\Isaac_SimpleWebAPI\\Models\\Resources\\sponge4.jpg");
+        Bitmap bmp5 = ConvertToBitmap("C:\\Users\\isaac\\Desktop\\Hard Drive\\Uni Year 2 Sem 2\\DC\\Week 6\\Isaac_SimpleWebAPI\\Isaac_SimpleWebAPI\\Models\\Resources\\sponge5.jpg");
+        Bitmap bmp6 = ConvertToBitmap("C:\\Users\\isaac\\Desktop\\Hard Drive\\Uni Year 2 Sem 2\\DC\\Week 6\\Isaac_SimpleWebAPI\\Isaac_SimpleWebAPI\\Models\\Resources\\sponge6.jpg");
+        Bitmap bmp7 = ConvertToBitmap("C:\\Users\\isaac\\Desktop\\Hard Drive\\Uni Year 2 Sem 2\\DC\\Week 6\\Isaac_SimpleWebAPI\\Isaac_SimpleWebAPI\\Models\\Resources\\sponge7.jpg");
+        Bitmap bmp8 = ConvertToBitmap("C:\\Users\\isaac\\Desktop\\Hard Drive\\Uni Year 2 Sem 2\\DC\\Week 6\\Isaac_SimpleWebAPI\\Isaac_SimpleWebAPI\\Models\\Resources\\sponge8.jpg");
+        Bitmap bmp9 = ConvertToBitmap("C:\\Users\\isaac\\Desktop\\Hard Drive\\Uni Year 2 Sem 2\\DC\\Week 6\\Isaac_SimpleWebAPI\\Isaac_SimpleWebAPI\\Models\\Resources\\sponge9.jpg");
 
         private string GetFirstName()
         {
@@ -92,14 +92,21 @@ namespace Isaac_SimpleWebAPI.Models
             return bm;
         }
 
-        public void GetNextAccount(out uint pin, out uint AcctNo, out string FirstName, out string LastName, out int balance, out Bitmap img)
+        public void GetNextAccount(out uint pin, out uint AcctNo, out string FirstName, out string LastName, out int balance, out string img)
         {
             pin = GetPin();
             AcctNo = GetAcctNo();
             FirstName = GetFirstName();
             LastName = GetLastName();
             balance = GetBalance();
-            img = GetImage();
+            // convert image to base64 encoded string
+            Bitmap bm = GetImage();
+            using (MemoryStream memstream = new MemoryStream())
+            {
+                bm.Save(memstream, System.Drawing.Imaging.ImageFormat.Bmp);
+                byte[] byteImage = memstream.ToArray();
+                img = Convert.ToBase64String(byteImage);
+            }
         }
     }
 }

@@ -14,4 +14,9 @@
     <Folder Include="Models\Resources\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Class Library\Class Library.csproj" />
+    <ProjectReference Include="..\WPF Client\WPF Client.csproj" />
+  </ItemGroup>
+
 </Project>

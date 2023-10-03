@@ -48,6 +48,27 @@
             "rid": "win"
           }
         }
+      },
+      "Class Library/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Class Library.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Class Library.dll": {}
+        }
+      },
+      "WPF Client/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Class Library": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WPF Client.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WPF Client.dll": {}
+        }
       }
     }
   },
@@ -119,11 +140,23 @@
         "system.drawing.common.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Class Library/1.0.0": {
+      "type": "project",
+      "path": "../Class Library/Class Library.csproj",
+      "msbuildProject": "../Class Library/Class Library.csproj"
+    },
+    "WPF Client/1.0.0": {
+      "type": "project",
+      "path": "../WPF Client/WPF Client.csproj",
+      "msbuildProject": "../WPF Client/WPF Client.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "System.Drawing.Common >= 7.0.0"
+      "Class Library >= 1.0.0",
+      "System.Drawing.Common >= 7.0.0",
+      "WPF Client >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -161,7 +194,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\isaac\\Desktop\\Hard Drive\\Uni Year 2 Sem 2\\DC\\Week 6\\Isaac_SimpleWebAPI\\Class Library\\Class Library.csproj": {
+              "projectPath": "C:\\Users\\isaac\\Desktop\\Hard Drive\\Uni Year 2 Sem 2\\DC\\Week 6\\Isaac_SimpleWebAPI\\Class Library\\Class Library.csproj"
+            },
+            "C:\\Users\\isaac\\Desktop\\Hard Drive\\Uni Year 2 Sem 2\\DC\\Week 6\\Isaac_SimpleWebAPI\\WPF Client\\WPF Client.csproj": {
+              "projectPath": "C:\\Users\\isaac\\Desktop\\Hard Drive\\Uni Year 2 Sem 2\\DC\\Week 6\\Isaac_SimpleWebAPI\\WPF Client\\WPF Client.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1,5 +1,7 @@
-﻿using Isaac_SimpleWebAPI.Models;
+﻿using Class_Library;
+using Isaac_SimpleWebAPI.Models;
 using Microsoft.AspNetCore.Mvc;
+using WPF_Client;
 
 namespace Isaac_SimpleWebAPI.Controllers
 {
@@ -9,7 +11,7 @@ namespace Isaac_SimpleWebAPI.Controllers
         {
             return View();
         }
-
+        // Can specify custom routes like this [Route("GetAllPersons")]
         [HttpGet]
         public IEnumerable<Person> GetAllPersons()
         {
@@ -29,7 +31,7 @@ namespace Isaac_SimpleWebAPI.Controllers
                 return new ObjectResult(person) { StatusCode = 200 };
         }
 
-        // GET http://localhost:44671/person/getpersonbyindex/{id}
+        // GET http://localhost:44671/person/getperson/{id}
 
         [HttpGet]
         public int GetNumEntries()
@@ -39,5 +41,20 @@ namespace Isaac_SimpleWebAPI.Controllers
         }
 
         //GET http://localhost:44671/person/getnumentries
+
+        [HttpPost]
+        public IActionResult SearchPerson([FromBody] SearchData searchStr)
+        {
+            Person person = Database.Search(searchStr.searchStr);
+            if (person == null)
+                return NotFound();
+            else
+                return new ObjectResult(person) 
+                { 
+                    StatusCode = 200
+                };
+        }
+
+        //GET http://localhost:44671/person/searchperson
     }
 }

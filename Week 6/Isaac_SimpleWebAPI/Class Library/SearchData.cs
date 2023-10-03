@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace Class_Library
 {
-    internal class SearchData
+    public class SearchData
     {
-        public string searchStr;
-
+        public string searchStr { get; set; }
     }
 }
