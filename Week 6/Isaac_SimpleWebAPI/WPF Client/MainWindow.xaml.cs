@@ -18,6 +18,7 @@ using System.IO;
 using System.Drawing;
 using System.Windows.Interop;
 using Class_Library;
+using System.Reflection;
 
 namespace WPF_Client
 {
@@ -33,6 +34,8 @@ namespace WPF_Client
             InitializeComponent();
             URL = "http://localhost:44671";
             restClient = new RestClient(URL);
+
+            getNumEntries();
         }
 
         private void go_btn_Click(object sender, RoutedEventArgs e)
@@ -46,6 +49,15 @@ namespace WPF_Client
 
             if(person != null)
                 UpdateGUI(person);
+        }
+
+        private void getNumEntries()
+        {
+            RestRequest restRequest = new RestRequest("/person/getnumentries");
+            RestResponse restResponse = restClient.Get(restRequest);
+
+            int number = JsonConvert.DeserializeObject<int>(restResponse.Content);
+            totalNum_label.Text = "Total Items: " + number;
         }
 
         private void search_btn_Click(object sender, RoutedEventArgs e)
@@ -67,13 +79,7 @@ namespace WPF_Client
 
             if (person != null)
                 UpdateGUI(person);
-        }
-
-        private void BoxGotFocus(object sender, RoutedEventArgs e)
-        {
-            TextBox tb = e.Source as TextBox;
-            tb.Clear();
-        }
+        }        
 
         private void UpdateGUI(DataIntermed person)
         {
@@ -101,6 +107,12 @@ namespace WPF_Client
 
                 image_box.Source = bitmapSource;
             }
+        }
+
+        private void BoxGotFocus(object sender, RoutedEventArgs e)
+        {
+            TextBox tb = e.Source as TextBox;
+            tb.Clear();
         }
     }
 }

@@ -9,37 +9,37 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Isaac_SimpleWebAPI
 build_property.RootNamespace = Isaac_SimpleWebAPI
-build_property.ProjectDir = C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 6\Isaac_SimpleWebAPI\Isaac_SimpleWebAPI\
+build_property.ProjectDir = C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\Isaac_SimpleWebAPI\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\isaac\Desktop\Hard Drive\Uni Year 2 Sem 2\DC\Week 6\Isaac_SimpleWebAPI\Isaac_SimpleWebAPI
+build_property.MSBuildProjectDirectory = C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\Isaac_SimpleWebAPI
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/isaac/Desktop/Hard Drive/Uni Year 2 Sem 2/DC/Week 6/Isaac_SimpleWebAPI/Isaac_SimpleWebAPI/Views/Home/Index.cshtml]
+[C:/Users/isaac/OneDrive/Documents/UNI/Uni Year 2 Sem 2/DC - COMP3008/COMP3008-DC/Week 6/Isaac_SimpleWebAPI/Isaac_SimpleWebAPI/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/isaac/Desktop/Hard Drive/Uni Year 2 Sem 2/DC/Week 6/Isaac_SimpleWebAPI/Isaac_SimpleWebAPI/Views/Home/Privacy.cshtml]
+[C:/Users/isaac/OneDrive/Documents/UNI/Uni Year 2 Sem 2/DC - COMP3008/COMP3008-DC/Week 6/Isaac_SimpleWebAPI/Isaac_SimpleWebAPI/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/isaac/Desktop/Hard Drive/Uni Year 2 Sem 2/DC/Week 6/Isaac_SimpleWebAPI/Isaac_SimpleWebAPI/Views/Shared/Error.cshtml]
+[C:/Users/isaac/OneDrive/Documents/UNI/Uni Year 2 Sem 2/DC - COMP3008/COMP3008-DC/Week 6/Isaac_SimpleWebAPI/Isaac_SimpleWebAPI/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/isaac/Desktop/Hard Drive/Uni Year 2 Sem 2/DC/Week 6/Isaac_SimpleWebAPI/Isaac_SimpleWebAPI/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/isaac/OneDrive/Documents/UNI/Uni Year 2 Sem 2/DC - COMP3008/COMP3008-DC/Week 6/Isaac_SimpleWebAPI/Isaac_SimpleWebAPI/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/isaac/Desktop/Hard Drive/Uni Year 2 Sem 2/DC/Week 6/Isaac_SimpleWebAPI/Isaac_SimpleWebAPI/Views/_ViewImports.cshtml]
+[C:/Users/isaac/OneDrive/Documents/UNI/Uni Year 2 Sem 2/DC - COMP3008/COMP3008-DC/Week 6/Isaac_SimpleWebAPI/Isaac_SimpleWebAPI/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/isaac/Desktop/Hard Drive/Uni Year 2 Sem 2/DC/Week 6/Isaac_SimpleWebAPI/Isaac_SimpleWebAPI/Views/_ViewStart.cshtml]
+[C:/Users/isaac/OneDrive/Documents/UNI/Uni Year 2 Sem 2/DC - COMP3008/COMP3008-DC/Week 6/Isaac_SimpleWebAPI/Isaac_SimpleWebAPI/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/isaac/Desktop/Hard Drive/Uni Year 2 Sem 2/DC/Week 6/Isaac_SimpleWebAPI/Isaac_SimpleWebAPI/Views/Shared/_Layout.cshtml]
+[C:/Users/isaac/OneDrive/Documents/UNI/Uni Year 2 Sem 2/DC - COMP3008/COMP3008-DC/Week 6/Isaac_SimpleWebAPI/Isaac_SimpleWebAPI/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-eesom596al
