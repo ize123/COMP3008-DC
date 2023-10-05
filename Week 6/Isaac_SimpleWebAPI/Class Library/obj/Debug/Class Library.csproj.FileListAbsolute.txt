@@ -1,0 +1,6 @@
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\Class Library\bin\Debug\Class Library.dll
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\Class Library\bin\Debug\Class Library.pdb
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\Class Library\obj\Debug\Class Library.csproj.AssemblyReference.cache
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\Class Library\obj\Debug\Class Library.csproj.CoreCompileInputs.cache
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\Class Library\obj\Debug\Class Library.dll
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\Class Library\obj\Debug\Class Library.pdb

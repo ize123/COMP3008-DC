@@ -1,0 +1,41 @@
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\WPF Client\bin\Debug\WPF Client.exe.config
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\WPF Client\bin\Debug\WPF Client.exe
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\WPF Client\bin\Debug\WPF Client.pdb
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\WPF Client\bin\Debug\Class Library.dll
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\WPF Client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\WPF Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\WPF Client\bin\Debug\RestSharp.dll
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\WPF Client\bin\Debug\System.Buffers.dll
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\WPF Client\bin\Debug\System.Memory.dll
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\WPF Client\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\WPF Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\WPF Client\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\WPF Client\bin\Debug\System.Text.Json.dll
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\WPF Client\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\WPF Client\bin\Debug\System.ValueTuple.dll
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\WPF Client\bin\Debug\Class Library.pdb
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\WPF Client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\WPF Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\WPF Client\bin\Debug\RestSharp.xml
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\WPF Client\bin\Debug\System.Buffers.xml
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\WPF Client\bin\Debug\System.Memory.xml
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\WPF Client\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\WPF Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\WPF Client\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\WPF Client\bin\Debug\System.Text.Json.xml
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\WPF Client\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\WPF Client\bin\Debug\System.ValueTuple.xml
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\WPF Client\obj\Debug\WPF Client.csproj.AssemblyReference.cache
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\WPF Client\obj\Debug\WPF Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\WPF Client\obj\Debug\MainWindow.g.cs
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\WPF Client\obj\Debug\App.g.cs
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\WPF Client\obj\Debug\WPF Client_MarkupCompile.cache
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\WPF Client\obj\Debug\WPF Client_MarkupCompile.lref
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\WPF Client\obj\Debug\MainWindow.baml
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\WPF Client\obj\Debug\WPF Client.g.resources
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\WPF Client\obj\Debug\WPF_Client.Properties.Resources.resources
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\WPF Client\obj\Debug\WPF Client.csproj.GenerateResource.cache
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\WPF Client\obj\Debug\WPF Client.csproj.CoreCompileInputs.cache
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\WPF Client\obj\Debug\WPF Client.csproj.CopyComplete
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\WPF Client\obj\Debug\WPF Client.exe
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\COMP3008-DC\Week 6\Isaac_SimpleWebAPI\WPF Client\obj\Debug\WPF Client.pdb

@@ -1,0 +1,77 @@
+C:\Users\isaac\Curtin University\COMP3008 Distributed Computing\Assignment1\Client\bin\Debug\Client.exe.config
+C:\Users\isaac\Curtin University\COMP3008 Distributed Computing\Assignment1\Client\bin\Debug\Client.exe
+C:\Users\isaac\Curtin University\COMP3008 Distributed Computing\Assignment1\Client\bin\Debug\Client.pdb
+C:\Users\isaac\Curtin University\COMP3008 Distributed Computing\Assignment1\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\isaac\Curtin University\COMP3008 Distributed Computing\Assignment1\Client\obj\Debug\MainWindow.g.cs
+C:\Users\isaac\Curtin University\COMP3008 Distributed Computing\Assignment1\Client\obj\Debug\App.g.cs
+C:\Users\isaac\Curtin University\COMP3008 Distributed Computing\Assignment1\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\isaac\Curtin University\COMP3008 Distributed Computing\Assignment1\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\isaac\Curtin University\COMP3008 Distributed Computing\Assignment1\Client\obj\Debug\MainWindow.baml
+C:\Users\isaac\Curtin University\COMP3008 Distributed Computing\Assignment1\Client\obj\Debug\Client.g.resources
+C:\Users\isaac\Curtin University\COMP3008 Distributed Computing\Assignment1\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\isaac\Curtin University\COMP3008 Distributed Computing\Assignment1\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\isaac\Curtin University\COMP3008 Distributed Computing\Assignment1\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Curtin University\COMP3008 Distributed Computing\Assignment1\Client\obj\Debug\Client.exe
+C:\Users\isaac\Curtin University\COMP3008 Distributed Computing\Assignment1\Client\obj\Debug\Client.pdb
+C:\Users\isaac\Curtin University\COMP3008 Distributed Computing\Assignment1\Client\bin\Debug\ChatServer.exe
+C:\Users\isaac\Curtin University\COMP3008 Distributed Computing\Assignment1\Client\bin\Debug\ChatServer.pdb
+C:\Users\isaac\Curtin University\COMP3008 Distributed Computing\Assignment1\Client\bin\Debug\ChatServer.exe.config
+C:\Users\isaac\Curtin University\COMP3008 Distributed Computing\Assignment1\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Assignment\COMP3008-DC-Assignment1\Client\bin\Debug\Client.exe.config
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Assignment\COMP3008-DC-Assignment1\Client\bin\Debug\Client.exe
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Assignment\COMP3008-DC-Assignment1\Client\bin\Debug\Client.pdb
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Assignment\COMP3008-DC-Assignment1\Client\bin\Debug\ChatServer.exe
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Assignment\COMP3008-DC-Assignment1\Client\bin\Debug\ChatServer.pdb
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Assignment\COMP3008-DC-Assignment1\Client\bin\Debug\ChatServer.exe.config
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Assignment\COMP3008-DC-Assignment1\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Assignment\COMP3008-DC-Assignment1\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Assignment\COMP3008-DC-Assignment1\Client\obj\Debug\MainWindow.g.cs
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Assignment\COMP3008-DC-Assignment1\Client\obj\Debug\App.g.cs
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Assignment\COMP3008-DC-Assignment1\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Assignment\COMP3008-DC-Assignment1\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Assignment\COMP3008-DC-Assignment1\Client\obj\Debug\MainWindow.baml
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Assignment\COMP3008-DC-Assignment1\Client\obj\Debug\Client.g.resources
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Assignment\COMP3008-DC-Assignment1\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Assignment\COMP3008-DC-Assignment1\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Assignment\COMP3008-DC-Assignment1\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Assignment\COMP3008-DC-Assignment1\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Assignment\COMP3008-DC-Assignment1\Client\obj\Debug\Client.exe
+C:\Users\isaac\OneDrive\Documents\UNI\Uni Year 2 Sem 2\DC - COMP3008\Assignment\COMP3008-DC-Assignment1\Client\obj\Debug\Client.pdb
+C:\Users\talei\Source\Repos\timewilltale\COMP3008-DC-Assignment1\Client\bin\Debug\Client.exe.config
+C:\Users\talei\Source\Repos\timewilltale\COMP3008-DC-Assignment1\Client\bin\Debug\Client.exe
+C:\Users\talei\Source\Repos\timewilltale\COMP3008-DC-Assignment1\Client\bin\Debug\Client.pdb
+C:\Users\talei\Source\Repos\timewilltale\COMP3008-DC-Assignment1\Client\bin\Debug\ChatServer.exe
+C:\Users\talei\Source\Repos\timewilltale\COMP3008-DC-Assignment1\Client\bin\Debug\ChatServer.pdb
+C:\Users\talei\Source\Repos\timewilltale\COMP3008-DC-Assignment1\Client\bin\Debug\ChatServer.exe.config
+C:\Users\talei\Source\Repos\timewilltale\COMP3008-DC-Assignment1\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\talei\Source\Repos\timewilltale\COMP3008-DC-Assignment1\Client\obj\Debug\MainWindow.g.cs
+C:\Users\talei\Source\Repos\timewilltale\COMP3008-DC-Assignment1\Client\obj\Debug\App.g.cs
+C:\Users\talei\Source\Repos\timewilltale\COMP3008-DC-Assignment1\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\talei\Source\Repos\timewilltale\COMP3008-DC-Assignment1\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\talei\Source\Repos\timewilltale\COMP3008-DC-Assignment1\Client\obj\Debug\MainWindow.baml
+C:\Users\talei\Source\Repos\timewilltale\COMP3008-DC-Assignment1\Client\obj\Debug\Client.g.resources
+C:\Users\talei\Source\Repos\timewilltale\COMP3008-DC-Assignment1\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\talei\Source\Repos\timewilltale\COMP3008-DC-Assignment1\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\talei\Source\Repos\timewilltale\COMP3008-DC-Assignment1\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\talei\Source\Repos\timewilltale\COMP3008-DC-Assignment1\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\talei\Source\Repos\timewilltale\COMP3008-DC-Assignment1\Client\obj\Debug\Client.exe
+C:\Users\talei\Source\Repos\timewilltale\COMP3008-DC-Assignment1\Client\obj\Debug\Client.pdb
+C:\Users\isaac\Curtin University\COMP3008 Distributed Computing\COMP3008-DC-Assignment1\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\isaac\Curtin University\COMP3008 Distributed Computing\COMP3008-DC-Assignment1\Client\obj\Debug\MainWindow.g.cs
+C:\Users\isaac\Curtin University\COMP3008 Distributed Computing\COMP3008-DC-Assignment1\Client\obj\Debug\App.g.cs
+C:\Users\isaac\Curtin University\COMP3008 Distributed Computing\COMP3008-DC-Assignment1\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\isaac\Curtin University\COMP3008 Distributed Computing\COMP3008-DC-Assignment1\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\isaac\Curtin University\COMP3008 Distributed Computing\COMP3008-DC-Assignment1\Client\obj\Debug\Client.exe
+C:\Users\isaac\Curtin University\COMP3008 Distributed Computing\COMP3008-DC-Assignment1\Client\obj\Debug\Client.pdb
+C:\Users\isaac\Curtin University\COMP3008 Distributed Computing\COMP3008-DC-Assignment1\Client\bin\Debug\Client.exe.config
+C:\Users\isaac\Curtin University\COMP3008 Distributed Computing\COMP3008-DC-Assignment1\Client\bin\Debug\Client.exe
+C:\Users\isaac\Curtin University\COMP3008 Distributed Computing\COMP3008-DC-Assignment1\Client\bin\Debug\Client.pdb
+C:\Users\isaac\Curtin University\COMP3008 Distributed Computing\COMP3008-DC-Assignment1\Client\bin\Debug\ChatServer.exe
+C:\Users\isaac\Curtin University\COMP3008 Distributed Computing\COMP3008-DC-Assignment1\Client\bin\Debug\ChatServer.pdb
+C:\Users\isaac\Curtin University\COMP3008 Distributed Computing\COMP3008-DC-Assignment1\Client\bin\Debug\ChatServer.exe.config
+C:\Users\isaac\Curtin University\COMP3008 Distributed Computing\COMP3008-DC-Assignment1\Client\obj\Debug\MainWindow.baml
+C:\Users\isaac\Curtin University\COMP3008 Distributed Computing\COMP3008-DC-Assignment1\Client\obj\Debug\Client.g.resources
+C:\Users\isaac\Curtin University\COMP3008 Distributed Computing\COMP3008-DC-Assignment1\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\isaac\Curtin University\COMP3008 Distributed Computing\COMP3008-DC-Assignment1\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\isaac\Curtin University\COMP3008 Distributed Computing\COMP3008-DC-Assignment1\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Curtin University\COMP3008 Distributed Computing\COMP3008-DC-Assignment1\Client\obj\Debug\Client.csproj.CopyComplete
